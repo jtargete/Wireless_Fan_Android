@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Wireless Fan app</string>
+    <string name="welcome_to_the_wireless_fan_app_for_android">Welcome to the Wireless Fan App For Android</string>
+    <string name="about">About</string>
+    <string name="todo">TODO</string>
+    <string name="start">Start</string>
+    <string name="press_scan_then_select_device_labeled_wireless_fan_xx">Press Scan then select device labeled Wireless Fan xx</string>
+    <string name="scan">Scan</string>
+    <string name="please_choose_one_of_the_following">Please choose one of the following</string>
+    <string name="high">HIGH</string>
+    <string name="low">LOW</string>
+    <string name="off">OFF</string>
+    <string name="version_1_0">Version : 1.0</string>
+    <string name="developer_targete_tech">Developer : Targete Tech</string>
+    <string name="about2">ABOUT</string>
+    <string name="back">Back</string>
+
+
+
+</resources>
